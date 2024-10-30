@@ -1,6 +1,6 @@
 # The Bro
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232100FD&title_bg=%239788FF&icon=vagrant.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSurceBeats%2Fhit-counter&count_bg=%233C008A&title_bg=%236A00FB&icon=debian.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/claudio-gonzalez-medina/)](https://www.linkedin.com/in/claudio-gonzalez-medina/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:subcero@gmail.com)](mailto:subcero@gmail.com)
 
