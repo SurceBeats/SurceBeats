@@ -8,7 +8,7 @@ I make noise with a great mixdown and make sure your code is safe enough.
 
 ---
 
-### The Stack
+# The Stack
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
