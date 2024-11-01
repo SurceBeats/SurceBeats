@@ -35,6 +35,7 @@ I make noise with a great mixdown and make sure your code is safe enough.
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-%23F05340.svg?style=flat&logo=laravel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
