@@ -17,7 +17,7 @@ I make noise with a great mixdown and make sure your code is safe enough.
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=flat&logo=astro&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=.net&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-%23004880.svg?style=flat&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300748F.svg?style=flat&logo=.net&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
