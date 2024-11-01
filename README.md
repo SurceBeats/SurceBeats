@@ -15,6 +15,7 @@ I make noise with a great mixdown and make sure your code is safe enough.
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=flat&logo=astro&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=.net&logoColor=white)
