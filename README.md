@@ -19,6 +19,7 @@ I make noise with a great mixdown and make sure your code is safe enough.
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=flat&logo=astro&logoColor=white)
+![Starlight](https://img.shields.io/badge/Starlight-6000F0.svg?style=flat&logo=astro&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=.net&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-%23004880.svg?style=flat&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300748F.svg?style=flat&logo=.net&logoColor=white)
