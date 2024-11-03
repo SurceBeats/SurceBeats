@@ -33,7 +33,7 @@ I make noise with a great mixdown and make sure your code is safe enough.
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat&logo=mariadb&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Hypercorn](https://img.shields.io/badge/Hypercorn-%2320232A.svg?style=flat&logo=hypercorn&logoColor=white)
+![Hypercorn](https://img.shields.io/badge/Hypercorn-%232C3454.svg?style=flat&logo=hackerearth&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
