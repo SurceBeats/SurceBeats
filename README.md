@@ -12,11 +12,17 @@ I make noise with a great mixdown and make sure your code is safe enough.
 # The Projects Bro Work At
 
 [![HomeDock OS](https://img.shields.io/badge/HomeDock_OS-Self--Hosted_Cloud_OS-0891b2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/BansheeTech/HomeDockOS)
+
 [![HomeDock OS Desktop](https://img.shields.io/badge/HomeDock_OS_Desktop-Native_Desktop_Client-0E6B77?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/BansheeTech/HomeDock-OS-Desktop-Releases)
+
 [![The Atlas](https://img.shields.io/badge/The_Atlas-Procedural_Universe_Engine-6C3483?style=for-the-badge&logo=threedotjs&logoColor=white)](https://github.com/SurceBeats/Atlas)
+
 [![Disavow Generator](https://img.shields.io/badge/Disavow_Generator-Negative_SEO_Defense-C0392B?style=for-the-badge&logo=google&logoColor=white)](https://github.com/BansheeTech/Disavow-Generator)
+
 [![GhostInk](https://img.shields.io/badge/GhostInk-Emoji_Steganography-2C3E50?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/SurceBeats/GhostInk)
+
 [![vite-fusion](https://img.shields.io/badge/vite--fusion-Flask_+_Vite_Bridge-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/BansheeTech/vite_fusion)
+
 [![USBReboot](https://img.shields.io/badge/USBReboot-Headless_Recovery_Tool-27AE60?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/SurceBeats/USBReboot)
 
 ---
