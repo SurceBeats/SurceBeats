@@ -1,15 +1,27 @@
-# The Bro
+# The Bro that Make Things
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSurceBeats%2Fhit-counter&count_bg=%233C008A&title_bg=%236A00FB&icon=debian.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/claudio-gonzalez-medina/)](https://www.linkedin.com/in/claudio-gonzalez-medina/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:claudio@banshee.pro)](mailto:claudio@banshee.pro)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-gonzalez-medina/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claudio@banshee.pro)
+[![X](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/SurceBeats)
 [![GitHub Follow](https://img.shields.io/github/followers/SurceBeats?label=Follow&style=social)](https://github.com/SurceBeats)
 
 I make noise with a great mixdown and make sure your code is safe enough.
 
 ---
 
-# The Stack
+# The Projects Bro Work At
+
+[![HomeDock OS](https://img.shields.io/badge/HomeDock_OS-Self--Hosted_Cloud_OS-0891b2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/BansheeTech/HomeDockOS)
+[![HomeDock OS Desktop](https://img.shields.io/badge/HomeDock_OS_Desktop-Native_Desktop_Client-0E6B77?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/BansheeTech/HomeDock-OS-Desktop-Releases)
+[![The Atlas](https://img.shields.io/badge/The_Atlas-Procedural_Universe_Engine-6C3483?style=for-the-badge&logo=threedotjs&logoColor=white)](https://github.com/SurceBeats/Atlas)
+[![Disavow Generator](https://img.shields.io/badge/Disavow_Generator-Negative_SEO_Defense-C0392B?style=for-the-badge&logo=google&logoColor=white)](https://github.com/BansheeTech/Disavow-Generator)
+[![GhostInk](https://img.shields.io/badge/GhostInk-Emoji_Steganography-2C3E50?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/SurceBeats/GhostInk)
+[![vite-fusion](https://img.shields.io/badge/vite--fusion-Flask_+_Vite_Bridge-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/BansheeTech/vite_fusion)
+[![USBReboot](https://img.shields.io/badge/USBReboot-Headless_Recovery_Tool-27AE60?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/SurceBeats/USBReboot)
+
+---
+
+# The Stack Bro Handles
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -49,8 +61,6 @@ I make noise with a great mixdown and make sure your code is safe enough.
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=flat&logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-
-<a href="http://www.github.com/surcebeats"><img src="https://github-readme-stats.vercel.app/api?username=surcebeats&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="surcebeats's GitHub stats" /></a>
 
 <a href="http://www.github.com/surcebeats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=surcebeats&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
