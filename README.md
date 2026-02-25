@@ -21,6 +21,8 @@ I make noise with a great mixdown and make sure your code is safe enough.
 
 [![GhostInk](https://img.shields.io/badge/GhostInk-Emoji_Steganography-2C3E50?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/SurceBeats/GhostInk)
 
+[![Planchette](https://img.shields.io/badge/Planchette-The_Spirit_Talking_board-967600?style=for-the-badge&logo=ghostery&logoColor=white)](https://github.com/SurceBeats/Planchette)
+
 [![vite-fusion](https://img.shields.io/badge/vite--fusion-Flask_+_Vite_Bridge-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/BansheeTech/vite_fusion)
 
 [![USBReboot](https://img.shields.io/badge/USBReboot-Headless_Recovery_Tool-27AE60?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://github.com/SurceBeats/USBReboot)
